@@ -1,0 +1,5 @@
+{
+  "name": "Inspired Library",
+  "description": "An intelligent book recommendation engine for Elementary school children (Grades 1-6), curating monthly reading lists with detailed metadata and difficulty levels.",
+  "requestFramePermissions": []
+}

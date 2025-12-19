@@ -1,0 +1,20 @@
+
+{
+  "name": "inspired-library",
+  "version": "1.0.0",
+  "description": "Inspired Elementary Book Recommender",
+  "main": "index.html",
+  "window": {
+    "title": "Inspired Library",
+    "icon": "https://placehold.co/512x512/4f46e5/ffffff?text=Inspired",
+    "width": 1280,
+    "height": 900,
+    "min_width": 1024,
+    "min_height": 768,
+    "position": "center",
+    "toolbar": false,
+    "frame": true,
+    "resizable": true
+  },
+  "node-remote": ["<all_urls>"]
+}
